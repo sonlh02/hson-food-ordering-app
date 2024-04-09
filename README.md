@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0284C7&fontColor=F0F9FF&height=256&text=PLI%20System%20Server&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0284C7&fontColor=F0F9FF&height=256&text=HSON%20Food%20Ordering%20App&fontAlignY=40"/>
 
 ## 💡 Giới thiệu
 
