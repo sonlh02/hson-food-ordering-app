@@ -65,7 +65,7 @@ const UserProfileForm = ({ onSave, isLoading }: Props) => {
           name="name"
           render={({ field }) => (
             <FormItem>
-              <FormLabel>name</FormLabel>
+              <FormLabel>Name</FormLabel>
               <FormControl>
                 <Input {...field} className="bg-white" />
               </FormControl>
